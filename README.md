@@ -4,11 +4,12 @@ A collection of public credit scoring and credit risk datasets for data analysis
 ## Overview
 | Dataset  | Published | Type | Size | Features | Label | URL |
 | - | - | - | - | - | - | - |
+| Bondora | Daily | Credit Risk | 300,000 | 124 | Binary | [link](https://www.bondora.com/en/public-reports) |
 | UCI (Australia) | N/A | Credit Risk | 690 | 14 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29) |
 | UCI (German) | 1994 | Credit Risk | 1000 | 20 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) |
 | UCI (Japan) | 1992 | Credit Risk | 125 | 15 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening) |
-| UCI (Poland) | 2016 | Credit Risk | 10503 | 64 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) |
-| UCI (Taiwan) | 2016 | Credit Risk | 30000 | 24 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
+| UCI (Poland) | 2016 | Credit Risk | 10,503 | 64 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data) |
+| UCI (Taiwan) | 2016 | Credit Risk | 30,000 | 24 | Binary | [link](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) |
 
 
 ## References
