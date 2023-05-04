@@ -7,6 +7,7 @@ A collection of public credit scoring and credit risk datasets for data analysis
 | - | - | - | - | - | - | - |
 | Bondora | Daily | Credit Risk | 300,000 | 124 | Binary Classification | [link](https://www.bondora.com/en/public-reports) |
 | Econometric Analysis | 1992 | Credit Risk | 13,444 | 13 | Binary Classification | [link](http://www.stern.nyu.edu/~wgreene/Text/Edition7/TableF7-3.csv) |
+| Kaggle (Give Me Some Credit) | 2012 | Credit Risk | 251,503 | 10 | Binary Classification | [link](https://www.kaggle.com/competitions/GiveMeSomeCredit/data) |
 | UCI (Australia) | N/A | Credit Risk | 690 | 14 | Binary Classification | [link](http://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29) |
 | UCI (German) | 1994 | Credit Risk | 1000 | 20 | Binary Classification | [link](http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) |
 | UCI (Japan) | 1992 | Credit Risk | 125 | 15 | Binary Classification | [link](http://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening) |
