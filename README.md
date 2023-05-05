@@ -7,6 +7,7 @@ A collection of public credit scoring and credit risk datasets for data analysis
 | - | - | - | - | - | - | - |
 | Bondora (Loans) | Daily | Credit Risk | 300,000 | 124 | Binary Classification | [link](https://www.bondora.com/marketing/media/LoanData.zip) |
 | Credit Risk Analytics (Home Equity) | 2016 | Credit Risk | 5,960 | 13 | Binary Classification | [link](http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/hmeq.csv) |
+| Credit Risk Analytics (Loss Given Default) | 2016 | Credit Risk | 2,545 | 7 | Regression | [link](http://www.creditriskanalytics.net/datasets-private2.html) |
 | Credit Risk Analytics (Mortgage) | 2016 | Credit Risk | 50,000 | 23 | Binary Classification | [link](http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/mortgage_csv.rar) |
 | Credit Risk Analytics (Loan Ratings) | 2016 | Credit Risk | 198 | 6 | Multiclass Classification | [link](http://www.creditriskanalytics.net/uploads/1/9/5/1/19511601/ratings.csv) |
 | Econometric Analysis | 1992 | Credit Risk | 13,444 | 13 | Binary Classification | [link](http://www.stern.nyu.edu/~wgreene/Text/Edition7/TableF7-3.csv) |
